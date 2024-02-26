@@ -1,0 +1,2 @@
+Namespace(model='DiT-pro-12-h6-L16', reshape_size=16, num_classes=23427, cfg_scale=4.0, num_sampling_steps=1000, seed=0, ckpt='/remote-home/lzy/Tax_Diff/ckpt/0012802_eval.pt', num=10, output_file='/remote-home/lzy/Tax_Diff/decode_data/model_10.txt', cuda_num='cuda:0', select_method=False, select_inner=True, information='seed0')
+[11925, 6022, 4110, 6647, 18278, 8858, 21454, 17368, 15800, 8234]
