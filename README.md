@@ -2,15 +2,14 @@
 <p align="center">
     <img src="imgs/motivation.png" width="450" style="margin-bottom: 0.2;"/>
 <p>
-<h5 align="center">
-    The official code for "TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation", submitted to ICML2024. Here we publish the inference code of TaxDiff. The training code & Protein sequence with Taxonomic lables dataset will be released after our paper is accepted. If you like our project, please give us a star ⭐ on GitHub for latest update.
-<h5 align="center">
-    
 [![arXiv](https://img.shields.io/badge/Arxiv-2310.01852-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.03403)
 [![License](https://img.shields.io/badge/Code%20License-MIT-yellow)](https://github.com/HowardLi1984/ECDFormer/blob/main/LICENSE)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-TaxDiff%20-blue)](https://github.com/HowardLi1984/ECDFormer/blob/main/LICENSE)
 [![Data License](https://img.shields.io/badge/Dataset%20license-CC--BY--NC%204.0-orange)](https://github.com/HowardLi1984/ECDFormer/blob/main/DATASET_LICENSE) <br> <br>
-
+<h5 align="center">
+    The official code for "TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation", submitted to ICML2024. Here we publish the inference code of TaxDiff. The training code & Protein sequence with Taxonomic lables dataset will be released after our paper is accepted. If you like our project, please give us a star ⭐ on GitHub for latest update.
+<h5 align="center">
+    
 </h5>
 <p align="center">
     <img src="imgs/archrtecture.png" width="700" style="margin-bottom: 0.2;"/>
