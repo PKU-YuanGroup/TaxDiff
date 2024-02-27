@@ -38,7 +38,7 @@
 ### 🔥 Diffusion-based Framework
 - TaxDiff proposes a **taxonomic-guided framework** that fits all diffusion-based protein design models. We also propose the patchify attention mechanism for better protein design.
 ### ⭐ Excellent performance
-- Experiments demonstrate that our TaxDiff achieves state-of-the-art results in both taxonomic-guided controllable and unconditional protein sequence generation, excelling in structural modeling scores and sequence consistency.
+- Experiments demonstrate that our TaxDiff achieves **state-of-the-art results** in both taxonomic-guided controllable and unconditional protein sequence generation, excelling in structural modeling scores and sequence consistency.
 
 ## 🚀 Main Results
 
