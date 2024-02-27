@@ -14,9 +14,9 @@
 <p align="center">
     <img src="imgs/archrtecture.png" width="700" style="margin-bottom: 0.2;"/>
 <p>
+    
+
 ## Data Preparation
-
-
 For inference, please download and put the [0012802.ckpt](https://github.com/Linzy19/TaxDiff/releases) into the folder ckpt/
 ```bash
 ckpt/0012802.ckpt
