@@ -41,7 +41,7 @@
 - Experiments demonstrate that our TaxDiff achieves **state-of-the-art results** in both taxonomic-guided controllable and unconditional protein sequence generation, excelling in structural modeling scores and sequence consistency.
 
 ## 🚀 Main Results
-
+More detailed results can be found in our paper.
 ### Unconditional Generation
 <p align="left">
 <img src="imgs/unconditional.png" width=80%>
