@@ -7,7 +7,7 @@
     
 [![arXiv](https://img.shields.io/badge/Arxiv-2310.01852-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.03403)
 [![License](https://img.shields.io/badge/Code%20License-MIT-yellow)](https://github.com/HowardLi1984/ECDFormer/blob/main/LICENSE)
-[![HuggingFace]([https://img.shields.io/badge/Hugging%20Face-bule]([https://github.com/HowardLi1984/ECDFormer/blob/main/LICENSE](https://huggingface.co/linzy19/TaxDiff))
+[![HuggingFace]([https://img.shields.io/badge/Hugging%20Face-bule)]([https://github.com/HowardLi1984/ECDFormer/blob/main/LICENSE](https://huggingface.co/linzy19/TaxDiff))
 [![Data License](https://img.shields.io/badge/Dataset%20license-CC--BY--NC%204.0-orange)](https://github.com/HowardLi1984/ECDFormer/blob/main/DATASET_LICENSE) <br>
 
 </h5>
