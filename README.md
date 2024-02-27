@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="imgs/motivation.png" width="700" style="margin-bottom: 0.2;"/>
+    <img src="imgs/motivation.png" width="400" style="margin-bottom: 0.2;"/>
 <p>
 <h5 align="center"> The official code for "TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation",submitted to ICML2024. Here we publish the inference code of TaxDiff. The training code & Protein sequence with Taxonomic lables dataset will be released after our paper is accepted. If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
