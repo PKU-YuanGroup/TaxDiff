@@ -1,3 +1,4 @@
+<h2 align="center"> <a href="hhttps://arxiv.org/abs/2402.16445"> TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation </a></h2>
 <p align="center">
     <img src="imgs/motivation.png" width="450" style="margin-bottom: 0.2;"/>
 <p>
