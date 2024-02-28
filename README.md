@@ -87,10 +87,12 @@ python sample_protein.py --model DiT-pro-12-h6-L16 --cuda-num cuda:0 --num 500
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 
 ```BibTeX
-@article{li2024deep,
-  title={Deep peak property learning for efficient chiral molecules ECD spectra prediction},
-  author={Li, Hao and Long, Da and Yuan, Li and Tian, Yonghong and Wang, Xinchang and Mo, Fanyang},
-  journal={arXiv preprint arXiv:2401.03403},
-  year={2024}
+@misc{zongying2024taxdiff,
+      title={TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation}, 
+      author={Lin Zongying and Li Hao and Lv Liuzhenghao and Lin Bin and Zhang Junwu and Chen Calvin Yu-Chian and Yuan Li and Tian Yonghong},
+      year={2024},
+      eprint={2402.17156},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
