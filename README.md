@@ -1,7 +1,7 @@
 <h2 align="center"> <a href="hhttps://arxiv.org/abs/2402.16445"> TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation </a></h2>
 <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2310.01852-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.03403)
+[![arXiv](https://img.shields.io/badge/Arxiv-2310.01852-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2402.17156)
 [![License](https://img.shields.io/badge/Code%20License-MIT-yellow)](https://github.com/HowardLi1984/ECDFormer/blob/main/LICENSE)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-TaxDiff%20-blue)](https://github.com/HowardLi1984/ECDFormer/blob/main/LICENSE)
 [![Data License](https://img.shields.io/badge/Dataset%20license-CC--BY--NC%204.0-orange)](https://github.com/HowardLi1984/ECDFormer/blob/main/DATASET_LICENSE) <br>
