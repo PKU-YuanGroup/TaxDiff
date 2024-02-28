@@ -16,14 +16,13 @@
     <img src="imgs/archrtecture.png" width="700" style="margin-bottom: 0.2;"/>
 <p>
 
-<details open><summary>💡 I also have other video-language projects that may interest you ✨. </summary><p>
+<details open><summary>💡 I also have other AI for Science projects that may interest you ✨. </summary><p>
 <!--  may -->
 
 > [**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**](https://github.com/Lyu6PosHao/ProLLaMA) <br>
 >Liuzhenghao Lv, Zongying Lin, Li Hao, Yuyang Liu, Jiaxi Cui, Calvin Yu-Chian Chen, Li Yuan, Yonghong Tian<br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/Lyu6PosHao/ProLLaMA)  
 [![arXiv](https://img.shields.io/badge/Arxiv-2401.15947-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2402.16445) <br>
-
 
 
 </p></details>
