@@ -86,12 +86,10 @@ python sample_protein.py --model DiT-pro-12-h6-L16 --cuda-num cuda:0 --num 500
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 
 ```BibTeX
-@misc{zongying2024taxdiff,
-      title={TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation}, 
-      author={Lin Zongying and Li Hao and Lv Liuzhenghao and Lin Bin and Zhang Junwu and Chen Calvin Yu-Chian and Yuan Li and Tian Yonghong},
-      year={2024},
-      eprint={2402.17156},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{zongying2024taxdiff,
+  title={TaxDiff: Taxonomic-Guided Diffusion Model for Protein Sequence Generation},
+  author={Zongying, Lin and Hao, Li and Liuzhenghao, Lv and Bin, Lin and Junwu, Zhang and Yu-Chian, Chen Calvin and Li, Yuan and Yonghong, Tian},
+  journal={arXiv preprint arXiv:2402.17156},
+  year={2024}
 }
 ```
