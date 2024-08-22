@@ -75,7 +75,7 @@ def main(args,class_lables):
 
 if __name__ == "__main__":
     start_times = time.time() 
-    file_name = '/remote-home/lzy/Tax_Diff/ckpt/0012802_eval.pt'
+    file_name = '/remote-home/lzy/Tax_Diff_new/ckpt/0012802_eval.pt'
     output_file= '/remote-home/lzy/Tax_Diff/decode_data/'+'model_10.txt'
     num = 10
     torch.manual_seed(0)
