@@ -53,10 +53,15 @@ More detailed results can be found in our paper.
 
 ## 📖 Data Preparation
 
-For inference, please download from [HuggingFace](https://huggingface.co/linzy19/TaxDiff/tree/main) Unzip it and put the [ckpt](https://huggingface.co/linzy19/TaxDiff/tree/main) into the folder ckpt/
+For inference, please download from [HuggingFace](https://huggingface.co/linzy19/TaxDiff/tree/main). Unzip it and put the [ckpt](https://huggingface.co/linzy19/TaxDiff/tree/main) into the folder ckpt/
 ```bash
 ckpt/0012802_eval.ckpt
 ```
+Our dataset can download from [HuggingFace](https://huggingface.co/linzy19/TaxDiff/tree/main).
+```bash
+uniref50_200_256_clean_taxnomic_family_tid__filter_layer6.fasta
+```
+
 We will release protein sequences with taxonmic labels for training procedure once our paper is accepted.
 
 If you want to select a specific protein taxonomic for your research, you need to first find his corresponding  tax-id in the [data_reader/Taxonnmic_classfication.xlsx](https://github.com/Linzy19/TaxDiff/blob/main/data_reader/Taxonnmic_classfication.xlsx), and then modify protein class lables in the [sample_protein.py](https://github.com/Linzy19/TaxDiff/blob/main/sample_protein.py).
