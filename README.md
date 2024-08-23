@@ -53,9 +53,9 @@ More detailed results can be found in our paper.
 
 ## 📖 Data Preparation
 
-For inference, please download from [HuggingFace](https://huggingface.co/linzy19/TaxDiff/tree/main)  and put the [ckpt](https://huggingface.co/linzy19/TaxDiff/tree/main) into the folder ckpt/
+For inference, please download from [HuggingFace](https://huggingface.co/linzy19/TaxDiff/tree/main) Unzip it and put the [ckpt](https://huggingface.co/linzy19/TaxDiff/tree/main) into the folder ckpt/
 ```bash
-ckpt/0012802.ckpt
+ckpt/0012802_eval.ckpt
 ```
 We will release protein sequences with taxonmic labels for training procedure once our paper is accepted.
 
